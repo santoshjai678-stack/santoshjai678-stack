@@ -95,17 +95,22 @@ Currently exploring **Python, Generative AI, RAG, and Agentic AI** to expand my 
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
+---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshjai678-stack&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjai678-stack&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshjai678-stack&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjai678-stack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santoshjai678-stack&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=santoshjai678-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
