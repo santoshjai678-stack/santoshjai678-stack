@@ -2,7 +2,7 @@
 
 ### Senior PHP Backend & Full-Stack Developer | Laravel | CodeIgniter | React.js | Node.js
 
-I'm a Backend-focused Full-Stack Developer with **5.7+ years of professional experience** building scalable web applications, REST APIs, admin dashboards, and enterprise solutions.
+I'm a Backend-focused Full-Stack Developer with **5.11+ years of professional experience** building scalable web applications, REST APIs, admin dashboards, and enterprise solutions.
 
 I specialize in PHP development, Laravel, CodeIgniter, Symfony, database architecture, third-party integrations, and backend system development.
 
@@ -12,7 +12,7 @@ Currently exploring **Python, Generative AI, RAG, and Agentic AI** to expand my 
 
 ## 🚀 About Me
 
-- 💼 5.7+ years of professional software development experience.
+- 💼 5.11+ years of professional software development experience.
 - 🔭 Working with Laravel, CodeIgniter, and Core PHP.
 - 🌱 Learning Python, Generative AI, RAG & Agentic AI.
 - 💡 Experienced in REST APIs, JWT Authentication, and RBAC.
